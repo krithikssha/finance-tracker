@@ -2,8 +2,9 @@
 
 A modern **Personal Finance Tracker** built with **React and Vite** to help users manage their income, expenses, budgets, and spending patterns through a clean and interactive dashboard.
 
-🔗 **Live Demo:**https://fina-nce-track-er.netlify.app
-🔗 **GitHub Repository:** https://github.com/krithikssha/finance-tracker
+**Live Demo:** https://fina-nce-track-er.netlify.app
+
+**GitHub Repository:** https://github.com/krithikssha/finance-tracker
 
 ---
 
@@ -71,25 +72,25 @@ A modern **Personal Finance Tracker** built with **React and Vite** to help user
 
 ### Frontend
 
-* **React**
-* **JavaScript (JSX)**
-* **HTML5**
-* **CSS3**
+* React
+* JavaScript (JSX)
+* HTML5
+* CSS3
 
 ### Development
 
-* **Vite**
-* **ESLint**
-* **npm**
+* Vite
+* ESLint
+* npm
 
 ### Data Storage
 
-* **Browser LocalStorage**
+* Browser LocalStorage
 
 ### Deployment
 
-* **Netlify**
-* **GitHub**
+* Netlify
+* GitHub
 
 ---
 
@@ -100,7 +101,13 @@ finance-tracker/
 │
 ├── public/
 │   ├── favicon.svg
-│   └── icons.svg
+│   ├── icons.svg
+│   └── screenshots/
+│       ├── login.png
+│       ├── dashboard-1.png
+│       ├── dashboard-2.png
+│       ├── dashboard-3.png
+│       └── dashboard-4.png
 │
 ├── src/
 │   ├── assets/
@@ -273,23 +280,20 @@ Built as a personal finance management project using React and Vite.
 
 This project is intended for educational and portfolio purposes.
 
+---
+
 ## 📸 Screenshots
+
 ### Login
 
 ![Login](public/screenshots/login.png)
-### Dashboard
-
-![Dashboard](public/screenshots/dashboard 1.png)
 
 ### Dashboard
 
-![Dashboard](public/screenshots/dashboard 2.png)
+![Dashboard](public/screenshots/dashboard1.png)
 
-### Dashboard
+![Dashboard](public/screenshots/dashboard2.png)
 
-![Dashboard](public/screenshots/dashboard 3.png)
+![Dashboard](public/screenshots/dashboard3.png)
 
-
-### Dashboard
-
-![Dashboard](public/screenshots/dashboard 4.png)
+![Dashboard](public/screenshots/dashboard4.png)
