@@ -274,15 +274,22 @@ Built as a personal finance management project using React and Vite.
 This project is intended for educational and portfolio purposes.
 
 ## 📸 Screenshots
+### Login
+
+![Login](public/screenshots/login.png)
+### Dashboard
+
+![Dashboard](public/screenshots/dashboard 1.png)
 
 ### Dashboard
 
-![Dashboard](public/screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard 2.png)
 
-### Transactions
+### Dashboard
 
-![Transactions](public/screenshots/transactions.png)
+![Dashboard](public/screenshots/dashboard 3.png)
 
-### Analytics
 
-![Analytics](public/screenshots/analytics.png)
+### Dashboard
+
+![Dashboard](public/screenshots/dashboard 4.png)
